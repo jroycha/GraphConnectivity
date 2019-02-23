@@ -2,16 +2,27 @@
 A little class for quickly finding the connected components of a graph
 
 Sample Input:
+
 8 8
+
 2 1
+
 1 2
+
 8 2
+
 2 8
+
 8 6
+
 8 3
+
 5 7
+
 4 7
+
 4 1
+
 
 the first line indicates that we are answering questions about 8 nodes, and 8 edges between them
 then follow each edge, i.e. edge from 2 to 1, then 1 to 2 etc. 
